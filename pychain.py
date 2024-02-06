@@ -173,7 +173,7 @@ pychain = setup()
 #input_data = st.text_input("Block Data")
 
 # Add an input area where you can get a value for `sender` from the user.
-sender = st.text_input("Input Receiver Information")
+sender = st.text_input("Input Sender Information")
 
 
 # Add an input area where you can get a value for `receiver` from the user.
